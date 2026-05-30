@@ -63,13 +63,11 @@ Identification automatique des mots-clés les plus importants du document.
 
 ### Intelligence Artificielle
 
-- SciBERT
-- Sentence-BERT
-- Gemini API
+- Langchain
 
 ### APIs
 
-- Semantic Scholar API
+- Groq API
 
 ---
 
